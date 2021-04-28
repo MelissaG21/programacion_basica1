@@ -1,13 +1,16 @@
-##2.2. Tarea Problemas de programación básica
+#2.2. Tarea Problemas de programación básica
 Problemas en javascript
 ***
-#Autor
+##Autor
 Melissa Garcia Mendoza 334259
-#Asignatura
+***
+##Asignatura
 Desarrollor basado en plataformas 6CC1
-#Maestro
+***
+##Maestro
 Ramirez Martinez Luis Antonio
-#Problemas
+***
+##Problemas
 1.- Hacer un programa que imprima los números del 1 al 100. 
 2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente. 
 3.- Hacer un programa que imprima los números pares entre 0 y 100. 
